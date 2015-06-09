@@ -1,0 +1,12 @@
+*
+!*.sh
+!*.py
+# the line below allow to include pattern file in subdirectories
+!*/
+!*.cc
+!*.h
+!wscript
+!marcos-t-notes.txt
+!.gitignore
+.waf*
+build/
